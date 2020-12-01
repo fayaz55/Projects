@@ -64,24 +64,23 @@ system.
 06-Dec.-2019].
 5. ( n.d).“Configuring devices | Cloud IoT Core Documentation | Google Cloud”. [Online]. Available: https://cloud.google.com/iot/docs/how-tos/config/configuring-devices. [Accessed: 14-Feb.-2020]
 6. (n.d).“Meet Android Studio | Android Developers”. [Online]. Available: https://developer.android.com/studio/intro. [Accessed: 14-Feb.-2020]
-7. Clark, J. (2019). What is the Internet of Things, and how does it work? . [online] Internet of Things blog.Available:https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/?fbclid=IwAR3gPXdTaPiiTwyETB9At8OLs-AyUVP4LI_uX4HBmWsVYKdjQ_ASh1_R9Yk [Accessed: 14-Feb.-2020]
-8. (n.d).“What is a Cloud Server? - Definition from Techopedia”. [Online]. Available: https://www.techopedia.com/definition/29019/cloud-server. [Accessed: 14-Feb.-2020]
-9. (n.d).“Publishing over the MQTT bridge | Cloud IoT Core Documentation ...”. [Online]. Available: https://cloud.google.com/iot/docs/how-tos/mqtt-bridge. [Accessed: 14-Feb.-2020]
-10. (n.d.) ”Cloud IoT API” [Online] Available: https://cloud.google.com/iot/docs/reference/cloudiot/rest/ [Accessed: 14-Feb.-2020]
-11. Kumar. S. (2019) Binary Logistic Regression with BigQuery ML Retrieved on February 13, 2020 from https://medium.com/@Sushil_Kumar/binary-logistic-regression-with-bigquery-ml-c9caa5920a71
-12. Google Cloud,(2020), Building And Using a Classification Model on Census Data, Google, Retrieved on February 13,2020 from https://cloud.google.com/bigquery-ml/docs/logistic-regression-prediction
-13. IoT Is The Most Important Development of The 21st Century, SmartDataCollective, Retrieved on December 6, 2019 from https://www.smartdatacollective.com/iot-most-important-development-of-21st-century/
-14. What is the Internet of Things, and how does it work?, Internet of Things blog, Retrieved on December 6, 2019 from https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/?fbclid=IwAR3gPXdTaPiiTwyETB9At8OLs-AyUVP4LI_uX4HBmWsVYKdjQ_ASh1_R9Yk
-15. Bauges, G, (2017) , Google Spreadsheets and Python, Twilio Blog, Retrieved on April 8, 2020, from https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
-16. Installation & Setup on Android | Firebase Realtime Database (2020). Retrieved on April 8, 2020, from https://firebase.google.com/docs/database/android/start/.
-17. Query | JavaScript SDK | Firebase (2020). Retrieved on April 8, 2020, from https://firebase.google.com/docs/reference/js/firebase.database.Query .
-18. Lourme, O. (2019) How to check the weather using GCP-Cloud IoT Core with ESP32 and Mongoose OS. Medium, Retrieved on April 8, 2020 from https://medium.com/free-code-camp/gcp-cloudiotcore-esp32-mongooseos-1st-5c88d8134ac7
-19. Google Cloud (n.d.) Using Cloud IoT Core Gateways with a Raspberry Pi, Google, Retrieved on April 8,2020 from https://cloud.google.com/community/tutorials/cloud-iot-gateways-rpi
-20. Start another activity (n.d), Android Developer , 2020. Retrieved on April 8, 2020 from https://developer.android.com/training/basics/firstapp/starting-activity
-21. Weiss, Gabe. Cloud IoT step-by-step: Cloud to device communication (2019), Medium, Retrieve on March 13, 2020 from https://medium.com/google-cloud/cloud-iot-step-by-step-cloud-to-device-communication-655a92d548
+7. (n.d).“What is a Cloud Server? - Definition from Techopedia”. [Online]. Available: https://www.techopedia.com/definition/29019/cloud-server. [Accessed: 14-Feb.-2020]
+8. (n.d).“Publishing over the MQTT bridge | Cloud IoT Core Documentation ...”. [Online]. Available: https://cloud.google.com/iot/docs/how-tos/mqtt-bridge. [Accessed: 14-Feb.-2020]
+9. (n.d.) ”Cloud IoT API” [Online] Available: https://cloud.google.com/iot/docs/reference/cloudiot/rest/ [Accessed: 14-Feb.-2020]
+10. Kumar. S. (2019) Binary Logistic Regression with BigQuery ML Retrieved on February 13, 2020 from https://medium.com/@Sushil_Kumar/binary-logistic-regression-with-bigquery-ml-c9caa5920a71
+11. Google Cloud,(2020), Building And Using a Classification Model on Census Data, Google, Retrieved on February 13,2020 from https://cloud.google.com/bigquery-ml/docs/logistic-regression-prediction
+12. IoT Is The Most Important Development of The 21st Century, SmartDataCollective, Retrieved on December 6, 2019 from https://www.smartdatacollective.com/iot-most-important-development-of-21st-century/
+13. What is the Internet of Things, and how does it work?, Internet of Things blog, Retrieved on December 6, 2019 from https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/?fbclid=IwAR3gPXdTaPiiTwyETB9At8OLs-AyUVP4LI_uX4HBmWsVYKdjQ_ASh1_R9Yk
+14. Bauges, G, (2017) , Google Spreadsheets and Python, Twilio Blog, Retrieved on April 8, 2020, from https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+15. Installation & Setup on Android | Firebase Realtime Database (2020). Retrieved on April 8, 2020, from https://firebase.google.com/docs/database/android/start/.
+16. Query | JavaScript SDK | Firebase (2020). Retrieved on April 8, 2020, from https://firebase.google.com/docs/reference/js/firebase.database.Query .
+17. Lourme, O. (2019) How to check the weather using GCP-Cloud IoT Core with ESP32 and Mongoose OS. Medium, Retrieved on April 8, 2020 from https://medium.com/free-code-camp/gcp-cloudiotcore-esp32-mongooseos-1st-5c88d8134ac7
+18. Google Cloud (n.d.) Using Cloud IoT Core Gateways with a Raspberry Pi, Google, Retrieved on April 8,2020 from https://cloud.google.com/community/tutorials/cloud-iot-gateways-rpi
+19. Start another activity (n.d), Android Developer , 2020. Retrieved on April 8, 2020 from https://developer.android.com/training/basics/firstapp/starting-activity
+20. Weiss, Gabe. Cloud IoT step-by-step: Cloud to device communication (2019), Medium, Retrieve on March 13, 2020 from https://medium.com/google-cloud/cloud-iot-step-by-step-cloud-to-device-communication-655a92d548
 ca
-22. https://www.ee.ryerson.ca/capstone/topics/2019/AA05.html
-23. https://firebase.google.com/docs/storage/gcp-integration
-24. PVPDS. Navigation drawer with Activities in android studio( not fragments ) (2017), Retrieved on April 1 2020 from https://www.youtube.com/watch?v=M_4Oh2FeRYs
-25. (n.d.),Controlling A Servor from the Raspberry Pi, Uoit, Retrieved On April 8, 2020 from https://rpi.science.uoit.ca/lab/servo/
-26. (n.d.), Raspberry Pi: Measure Humidity and Temperature with DHT11/DHT22, Raspberry Pi Tutorials , Retrieved on April 8, 2020 from https://tutorials-raspberrypi.com/raspberry-pi-measure-humidity-temperature-dht11-dht22/
+21. https://www.ee.ryerson.ca/capstone/topics/2019/AA05.html
+22. https://firebase.google.com/docs/storage/gcp-integration
+23. PVPDS. Navigation drawer with Activities in android studio( not fragments ) (2017), Retrieved on April 1 2020 from https://www.youtube.com/watch?v=M_4Oh2FeRYs
+24. (n.d.),Controlling A Servor from the Raspberry Pi, Uoit, Retrieved On April 8, 2020 from https://rpi.science.uoit.ca/lab/servo/
+25. (n.d.), Raspberry Pi: Measure Humidity and Temperature with DHT11/DHT22, Raspberry Pi Tutorials , Retrieved on April 8, 2020 from https://tutorials-raspberrypi.com/raspberry-pi-measure-humidity-temperature-dht11-dht22/
