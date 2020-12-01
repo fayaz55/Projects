@@ -1,6 +1,7 @@
 # Java Bank Account Application Project 
 
-##Introduction
+## Introduction
+
 This is a simple Bank Account Application Project created for one of my computer engineering courses at Ryerson 
 University.
 The problem statement is described below:
