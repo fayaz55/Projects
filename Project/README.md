@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple Bank Account Application Project created for one of my computer engineering courses at Ryerson 
+This is a Bank Account Application Project created for one of my computer engineering courses at Ryerson 
 University.
 The problem statement is described below:
 
@@ -26,7 +26,7 @@ In this application, the manager has username: admin, password:admin, and role =
  through the user interface, the manager’s username, password and role are authenticated. When a customer tries 
  to login through the user interface, the customer’s username, password and role are authenticated using the 
  information stored in the relevant file. Only the manager of the bank has the authority to add or delete a customer. 
- When the manager adds a cus-tomer, she must create the account of the customer as well with a 100 dollar balance in 
+ When the manager adds a customer, she must create the account of the customer as well with a 100 dollar balance in 
  the account. When the manager deletes a customer, the associated account should get deleted as well. It is assumed
  that no two users can have the same username.
  
