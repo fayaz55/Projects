@@ -54,7 +54,7 @@ system.
 
 * __Aali Waqar__
 * __Ilmurat Ownuk__
-* __Nikida Mavadia__
+* __Nikita Mavadia__
 
 ## References 
 1. (n.d.). Logistic Regression For Dummies: A Detailed Explanation. Retrieved February 14, 2020, from https://towardsdatascience.com/logistic-regression-for-dummies-a-detailed-explanation-9597f76edf46
