@@ -1,6 +1,6 @@
-#Internet of Things for Smart Building Management
+# Internet of Things for Smart Building Management
 
-##Introduction
+## Introduction
 
 Wireless communications and networking have become a significant role in everyday lives. With
 the rise and development of the Internet of Things (IoT) applications, the next generation of wireless
