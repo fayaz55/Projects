@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77470235724",
+    "firebase_url": "https://leafy-environs-257822.firebaseio.com",
+    "project_id": "leafy-environs-257822",
+    "storage_bucket": "leafy-environs-257822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77470235724:android:c5d1daf80b6569f9da88e9",
+        "android_client_info": {
+          "package_name": "com.example.brightfuture3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77470235724-rt0lhc2lkmgbvg7g3m3mjl7vvevfck9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqsh9RBhxQO4coh13kPv2gMNFSsgCB_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77470235724-rt0lhc2lkmgbvg7g3m3mjl7vvevfck9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
