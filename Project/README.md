@@ -13,7 +13,7 @@ logout, deposit money, withdraw money, get balance, do online purchase(s). The m
 and delete customer.
  
 Every customer has three levels: silver, gold, platinum. When a customer has less than 10000 dollars in her account,
-she is at silver level. When a customer has 10000 dollars or more but less than 20000 dol-lars in her account,
+she is at silver level. When a customer has 10000 dollars or more but less than 20000 dollars in her account,
 she is at gold level. When a customer has 20000 dollars or more in her account, she is at platinum level. A customer
 can do an online purchase using the money in her account. The online purchase must be of 50 dollars or more. When a
 silver customer does an online purchase using her ac-count, she needs to pay a fee of 20 dollars in addition to 
