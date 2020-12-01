@@ -63,17 +63,15 @@ system.
 4. (n.d).“Build an Android App Using Firebase and the App Engine Flexible ...”. [Online]. Available: https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible. [Accessed:
 06-Dec.-2019].
 5. ( n.d).“Configuring devices | Cloud IoT Core Documentation | Google Cloud”. [Online]. Available: https://cloud.google.com/iot/docs/how-tos/config/configuring-devices. [Accessed: 14-Feb.-2020]
-6.(n.d).“Meet Android Studio | Android Developers”. [Online]. Available: https://developer.android.com/studio/intro. [Accessed: 14-Feb.-2020]
-7. Clark, J. (2019). What is the Internet of Things, and how does it work? . [online] Internet of Things blog.Available:https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/?fbclid=IwAR3gPXdTaPiiT
-wyETB9At8OLs-AyUVP4LI_uX4HBmWsVYKdjQ_ASh1_R9Yk [Accessed: 14-Feb.-2020]
+6. (n.d).“Meet Android Studio | Android Developers”. [Online]. Available: https://developer.android.com/studio/intro. [Accessed: 14-Feb.-2020]
+7. Clark, J. (2019). What is the Internet of Things, and how does it work? . [online] Internet of Things blog.Available:https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/?fbclid=IwAR3gPXdTaPiiTwyETB9At8OLs-AyUVP4LI_uX4HBmWsVYKdjQ_ASh1_R9Yk [Accessed: 14-Feb.-2020]
 8. (n.d).“What is a Cloud Server? - Definition from Techopedia”. [Online]. Available: https://www.techopedia.com/definition/29019/cloud-server. [Accessed: 14-Feb.-2020]
 9. (n.d).“Publishing over the MQTT bridge | Cloud IoT Core Documentation ...”. [Online]. Available: https://cloud.google.com/iot/docs/how-tos/mqtt-bridge. [Accessed: 14-Feb.-2020]
 10. (n.d.) ”Cloud IoT API” [Online] Available: https://cloud.google.com/iot/docs/reference/cloudiot/rest/ [Accessed: 14-Feb.-2020]
 11. Kumar. S. (2019) Binary Logistic Regression with BigQuery ML Retrieved on February 13, 2020 from https://medium.com/@Sushil_Kumar/binary-logistic-regression-with-bigquery-ml-c9caa5920a71
 12. Google Cloud,(2020), Building And Using a Classification Model on Census Data, Google, Retrieved on February 13,2020 from https://cloud.google.com/bigquery-ml/docs/logistic-regression-prediction
 13. IoT Is The Most Important Development of The 21st Century, SmartDataCollective, Retrieved on December 6, 2019 from https://www.smartdatacollective.com/iot-most-important-development-of-21st-century/
-14. What is the Internet of Things, and how does it work?, Internet of Things blog, Retrieved on December 6, 2019 from https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/?fbclid=IwAR3gPXdTaPiiTwyETB9At8OL
-s-AyUVP4LI_uX4HBmWsVYKdjQ_ASh1_R9Yk
+14. What is the Internet of Things, and how does it work?, Internet of Things blog, Retrieved on December 6, 2019 from https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/?fbclid=IwAR3gPXdTaPiiTwyETB9At8OLs-AyUVP4LI_uX4HBmWsVYKdjQ_ASh1_R9Yk
 15. Bauges, G, (2017) , Google Spreadsheets and Python, Twilio Blog, Retrieved on April 8, 2020, from https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
 16. Installation & Setup on Android | Firebase Realtime Database (2020). Retrieved on April 8, 2020, from https://firebase.google.com/docs/database/android/start/.
 17. Query | JavaScript SDK | Firebase (2020). Retrieved on April 8, 2020, from https://firebase.google.com/docs/reference/js/firebase.database.Query .
