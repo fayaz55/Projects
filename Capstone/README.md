@@ -21,6 +21,16 @@ motion. This will result in little to no interaction of the homeowner/user with 
 was also made to notify the user of the actions taking place as well as an option to manually control parts of the
 system.
 
+## Architecture and Design
+
+![](capstonedesign.jpg)
+
+The diagram [26] above describes the basic flow of data from the IoT board to the cloud and back to the board
+
+![](network.jpg)
+
+This diagram [17] describes the dataflow from the IoT device to Firebase and the android application
+
 ## Files 
 * `BrighFuture3_working_activities` Android Application used to interact with the system
 
@@ -84,3 +94,4 @@ ca
 23. PVPDS. Navigation drawer with Activities in android studio( not fragments ) (2017), Retrieved on April 1 2020 from https://www.youtube.com/watch?v=M_4Oh2FeRYs
 24. (n.d.),Controlling A Servor from the Raspberry Pi, Uoit, Retrieved On April 8, 2020 from https://rpi.science.uoit.ca/lab/servo/
 25. (n.d.), Raspberry Pi: Measure Humidity and Temperature with DHT11/DHT22, Raspberry Pi Tutorials , Retrieved on April 8, 2020 from https://tutorials-raspberrypi.com/raspberry-pi-measure-humidity-temperature-dht11-dht22/
+26. (n.d.), Sensor data collection and analytics with IoT core Retrieved on April 8, 2020, from https://cloud.google.com/community/tutorials/cloud-iot-enviro-board-workshop

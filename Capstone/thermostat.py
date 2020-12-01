@@ -82,24 +82,7 @@ def SendCommand(sock, message, log=True):
     print('received: "{}"'.format(response))
 
     return response
-    
-    #""" returns message received """
-    #if log:
-    #    print('sending: "{}"'.format(message), file=sys.stderr)
 
-    #sock.sendto(message.encode('utf8'), server_address)
-
-    # Receive response
-    #if log:
-    #    print('waiting for response', file=sys.stderr)
-    #    response, _ = sock.recvfrom(4096)
-    #if log:
-    #    print('received: "{}"'.format(response), file=sys.stderr)
-
-    #return response
-
-
-#print('Bring up device 1')
 
 
 def MakeMessage(device_id, action, Month = '', Day = '', Time ='', Temp1 = '', Hum1 = '', Room1 ='', Temp2 = '', Hum2 = '', Room2= ''):
@@ -119,12 +102,7 @@ def RunAction(action, data=''):
     print('Send data: {} '.format(message))
     event_response = SendCommand(client_sock, message)
     print('Response: {}'.format(event_response))
-    #message = MakeMessage(device_id, action, data)
-    #if not message:
-    #    return
-    #print('Send data: {} '.format(message))
-    #event_response = SendCommand(client_sock, message)
-    #print('Response {}'.format(event_response))
+
 
 def Thermostat():
     h1, t1 = Adafruit_DHT.read_retry(22, DHT_SENSOR_PIN)

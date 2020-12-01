@@ -23,7 +23,7 @@ time.sleep(0.3)
 Motor.ChangeDutyCycle(0)
 time.sleep(2)
     
-#Motor.stop()
-#GPIO.cleanup()        
+Motor.stop()
+GPIO.cleanup()
         
         
