@@ -1,6 +1,6 @@
 # Projects
 
-This Repository contains all the recent projects and coursework that I have completed recently. Click on 
+This repository contains all the projects and coursework that I have completed recently. Click on 
 each folder for a detailed description of each project.
 
 ## Table of Contents
