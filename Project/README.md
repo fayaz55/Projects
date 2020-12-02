@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This is a Bank Account Application Project created for one of my computer engineering courses at Ryerson 
-University.
+This is a Bank Account Application Project created for one of my computer engineering courses, Object Oriented
+Analysis and Design at Ryerson University.
 The problem statement is described below:
 
 You will develop a simple Bank Account Application. The application must be a graphical user interface (GUI) based. 
