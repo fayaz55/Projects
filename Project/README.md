@@ -34,6 +34,13 @@ Your project must apply the State design pattern. The change of level of the cus
 
 The GUI of the application has to be developed using JavaFX.
 
+## Architecture and Design 
+
+![](classdiagram.jpg)
+
+Class Diagram of Bank Account Application
+
+
 ## Files
 
 * `Account.java` Class defining Account object. Contains Level and Balance for Account
