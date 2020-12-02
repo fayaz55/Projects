@@ -30,7 +30,7 @@ In this application, the manager has username: admin, password:admin, and role =
  the account. When the manager deletes a customer, the associated account should get deleted as well. It is assumed
  that no two users can have the same username.
  
-Your project must apply the State design pattern. The change of level of the customer is the re-sponsibility of the concrete state classes.
+Your project must apply the State design pattern. The change of level of the customer is the responsibility of the concrete state classes.
 
 The GUI of the application has to be developed using JavaFX.
 
