@@ -27,6 +27,7 @@ system.
 
 The diagram [26] above describes the basic flow of data from the IoT board to the cloud and back to the board
 
+
 ![](network.jpg)
 
 This diagram [17] describes the dataflow from the IoT device to Firebase and the android application
